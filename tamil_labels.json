@@ -1,0 +1,990 @@
+{
+    "1": {
+        "tamil": "அ",
+        "pronunciation": "a"
+    },
+    "2": {
+        "tamil": "ஆ",
+        "pronunciation": "ā"
+    },
+    "3": {
+        "tamil": "இ",
+        "pronunciation": "i"
+    },
+    "4": {
+        "tamil": "ஈ",
+        "pronunciation": "ī"
+    },
+    "5": {
+        "tamil": "உ",
+        "pronunciation": "u"
+    },
+    "6": {
+        "tamil": "ஊ",
+        "pronunciation": "ū"
+    },
+    "7": {
+        "tamil": "எ",
+        "pronunciation": "e"
+    },
+    "8": {
+        "tamil": "ஏ",
+        "pronunciation": "ē"
+    },
+    "9": {
+        "tamil": "ஐ",
+        "pronunciation": "ai"
+    },
+    "10": {
+        "tamil": "ஒ",
+        "pronunciation": "o"
+    },
+    "11": {
+        "tamil": "ஓ",
+        "pronunciation": "ō"
+    },
+    "12": {
+        "tamil": "ஔ",
+        "pronunciation": "au"
+    },
+    "13": {
+        "tamil": "ஃ",
+        "pronunciation": "ak"
+    },
+    "14": {
+        "tamil": "க்",
+        "pronunciation": "k"
+    },
+    "15": {
+        "tamil": "ங்",
+        "pronunciation": "ṅ"
+    },
+    "16": {
+        "tamil": "ச்",
+        "pronunciation": "c"
+    },
+    "17": {
+        "tamil": "ஞ்",
+        "pronunciation": "ñ"
+    },
+    "18": {
+        "tamil": "ட்",
+        "pronunciation": "ṭ"
+    },
+    "19": {
+        "tamil": "ண்",
+        "pronunciation": "ṇ"
+    },
+    "20": {
+        "tamil": "த்",
+        "pronunciation": "t"
+    },
+    "21": {
+        "tamil": "ந்",
+        "pronunciation": "n"
+    },
+    "22": {
+        "tamil": "ப்",
+        "pronunciation": "p"
+    },
+    "23": {
+        "tamil": "ம்",
+        "pronunciation": "m"
+    },
+    "24": {
+        "tamil": "ய்",
+        "pronunciation": "y"
+    },
+    "25": {
+        "tamil": "ர்",
+        "pronunciation": "r"
+    },
+    "26": {
+        "tamil": "ல்",
+        "pronunciation": "l"
+    },
+    "27": {
+        "tamil": "வ்",
+        "pronunciation": "v"
+    },
+    "28": {
+        "tamil": "ழ்",
+        "pronunciation": "lzh"
+    },
+    "29": {
+        "tamil": "ள்",
+        "pronunciation": "ll"
+    },
+    "30": {
+        "tamil": "ற்",
+        "pronunciation": "ṟ"
+    },
+    "31": {
+        "tamil": "ன்",
+        "pronunciation": "ṉ"
+    },
+    "32": {
+        "tamil": "க",
+        "pronunciation": "Ka"
+    },
+    "33": {
+        "tamil": "கா",
+        "pronunciation": "Kā"
+    },
+    "34": {
+        "tamil": "கி",
+        "pronunciation": "Ki"
+    },
+    "35": {
+        "tamil": "கீ",
+        "pronunciation": "Kī"
+    },
+    "36": {
+        "tamil": "கு",
+        "pronunciation": "Ku"
+    },
+    "37": {
+        "tamil": "கூ",
+        "pronunciation": "Kū"
+    },
+    "38": {
+        "tamil": "கெ",
+        "pronunciation": "Ke"
+    },
+    "39": {
+        "tamil": "கே",
+        "pronunciation": "Kē"
+    },
+    "40": {
+        "tamil": "கை",
+        "pronunciation": "Kai"
+    },
+    "41": {
+        "tamil": "கொ",
+        "pronunciation": "Ko"
+    },
+    "42": {
+        "tamil": "கோ",
+        "pronunciation": "Kō"
+    },
+    "43": {
+        "tamil": "கௌ",
+        "pronunciation": "Kau"
+    },
+    "44": {
+        "tamil": "ங",
+        "pronunciation": "Nga"
+    },
+    "45": {
+        "tamil": "ஙா",
+        "pronunciation": "Ngā"
+    },
+    "46": {
+        "tamil": "ஙி",
+        "pronunciation": "Ngi"
+    },
+    "47": {
+        "tamil": "ஙீ",
+        "pronunciation": "Ngī"
+    },
+    "48": {
+        "tamil": "ஙு",
+        "pronunciation": "Ngu"
+    },
+    "49": {
+        "tamil": "ஙூ",
+        "pronunciation": "Ngū"
+    },
+    "50": {
+        "tamil": "ஙெ",
+        "pronunciation": "Nge"
+    },
+    "51": {
+        "tamil": "ஙே",
+        "pronunciation": "Ngē"
+    },
+    "52": {
+        "tamil": "ஙை",
+        "pronunciation": "Ngai"
+    },
+    "53": {
+        "tamil": "ஙொ",
+        "pronunciation": "Ngo"
+    },
+    "54": {
+        "tamil": "ஙோ",
+        "pronunciation": "Ngō"
+    },
+    "55": {
+        "tamil": "ஙௌ",
+        "pronunciation": "Ngau"
+    },
+    "56": {
+        "tamil": "ச",
+        "pronunciation": "Sa"
+    },
+    "57": {
+        "tamil": "சா",
+        "pronunciation": "Sā"
+    },
+    "58": {
+        "tamil": "சி",
+        "pronunciation": "Si"
+    },
+    "59": {
+        "tamil": "சீ",
+        "pronunciation": "Sī"
+    },
+    "60": {
+        "tamil": "சு",
+        "pronunciation": "Su"
+    },
+    "61": {
+        "tamil": "சூ",
+        "pronunciation": "Sū"
+    },
+    "62": {
+        "tamil": "செ",
+        "pronunciation": "Se"
+    },
+    "63": {
+        "tamil": "சே",
+        "pronunciation": "Sē"
+    },
+    "64": {
+        "tamil": "சை",
+        "pronunciation": "Sai"
+    },
+    "65": {
+        "tamil": "சொ",
+        "pronunciation": "So"
+    },
+    "66": {
+        "tamil": "சோ",
+        "pronunciation": "Sō"
+    },
+    "67": {
+        "tamil": "சௌ",
+        "pronunciation": "Sau"
+    },
+    "68": {
+        "tamil": "ஞ",
+        "pronunciation": "Ña"
+    },
+    "69": {
+        "tamil": "ஞா",
+        "pronunciation": "Ñā"
+    },
+    "70": {
+        "tamil": "ஞி",
+        "pronunciation": "Ñi"
+    },
+    "71": {
+        "tamil": "ஞீ",
+        "pronunciation": "Ñī"
+    },
+    "72": {
+        "tamil": "ஞு",
+        "pronunciation": "Ñu"
+    },
+    "73": {
+        "tamil": "ஞூ",
+        "pronunciation": "Ñū"
+    },
+    "74": {
+        "tamil": "ஞெ",
+        "pronunciation": "Ñe"
+    },
+    "75": {
+        "tamil": "ஞே",
+        "pronunciation": "Ñē"
+    },
+    "76": {
+        "tamil": "ஞை",
+        "pronunciation": "Ñai"
+    },
+    "77": {
+        "tamil": "ஞொ",
+        "pronunciation": "Ño"
+    },
+    "78": {
+        "tamil": "ஞோ",
+        "pronunciation": "Ñō"
+    },
+    "79": {
+        "tamil": "ஞௌ",
+        "pronunciation": "Ñau"
+    },
+    "80": {
+        "tamil": "ட",
+        "pronunciation": "Ṭa"
+    },
+    "81": {
+        "tamil": "டா",
+        "pronunciation": "Ṭā"
+    },
+    "82": {
+        "tamil": "டி",
+        "pronunciation": "Ṭi"
+    },
+    "83": {
+        "tamil": "டீ",
+        "pronunciation": "Ṭī"
+    },
+    "84": {
+        "tamil": "டு",
+        "pronunciation": "Ṭu"
+    },
+    "85": {
+        "tamil": "டூ",
+        "pronunciation": "Ṭū"
+    },
+    "86": {
+        "tamil": "டெ",
+        "pronunciation": "Ṭe"
+    },
+    "87": {
+        "tamil": "டே",
+        "pronunciation": "Ṭē"
+    },
+    "88": {
+        "tamil": "டை",
+        "pronunciation": "Ṭai"
+    },
+    "89": {
+        "tamil": "டொ",
+        "pronunciation": "Ṭo"
+    },
+    "90": {
+        "tamil": "டோ",
+        "pronunciation": "Ṭō"
+    },
+    "91": {
+        "tamil": "டௌ",
+        "pronunciation": "Ṭau"
+    },
+    "92": {
+        "tamil": "ண",
+        "pronunciation": "Ṇa"
+    },
+    "93": {
+        "tamil": "ணா",
+        "pronunciation": "Ṇā"
+    },
+    "94": {
+        "tamil": "ணி",
+        "pronunciation": "Ṇi"
+    },
+    "95": {
+        "tamil": "ணீ",
+        "pronunciation": "Ṇī"
+    },
+    "96": {
+        "tamil": "ணு",
+        "pronunciation": "Ṇu"
+    },
+    "97": {
+        "tamil": "ணூ",
+        "pronunciation": "Ṇū"
+    },
+    "98": {
+        "tamil": "ணெ",
+        "pronunciation": "Ṇe"
+    },
+    "99": {
+        "tamil": "ணே",
+        "pronunciation": "Ṇē"
+    },
+    "100": {
+        "tamil": "ணை",
+        "pronunciation": "Ṇai"
+    },
+    "101": {
+        "tamil": "ணொ",
+        "pronunciation": "Ṇo"
+    },
+    "102": {
+        "tamil": "ணோ",
+        "pronunciation": "Ṇō"
+    },
+    "103": {
+        "tamil": "ணௌ",
+        "pronunciation": "Ṇau"
+    },
+    "104": {
+        "tamil": "த",
+        "pronunciation": "Ta"
+    },
+    "105": {
+        "tamil": "தா",
+        "pronunciation": "Tā"
+    },
+    "106": {
+        "tamil": "தி",
+        "pronunciation": "Ti"
+    },
+    "107": {
+        "tamil": "தீ",
+        "pronunciation": "Tī"
+    },
+    "108": {
+        "tamil": "து",
+        "pronunciation": "Tu"
+    },
+    "109": {
+        "tamil": "தூ",
+        "pronunciation": "Tū"
+    },
+    "110": {
+        "tamil": "தெ",
+        "pronunciation": "Te"
+    },
+    "111": {
+        "tamil": "தே",
+        "pronunciation": "Tē"
+    },
+    "112": {
+        "tamil": "தை",
+        "pronunciation": "Tai"
+    },
+    "113": {
+        "tamil": "தொ",
+        "pronunciation": "To"
+    },
+    "114": {
+        "tamil": "தோ",
+        "pronunciation": "Tō"
+    },
+    "115": {
+        "tamil": "தௌ",
+        "pronunciation": "Tau"
+    },
+    "116": {
+        "tamil": "ந",
+        "pronunciation": "Na"
+    },
+    "117": {
+        "tamil": "நா",
+        "pronunciation": "Nā"
+    },
+    "118": {
+        "tamil": "நி",
+        "pronunciation": "Ni"
+    },
+    "119": {
+        "tamil": "நீ",
+        "pronunciation": "Nī"
+    },
+    "120": {
+        "tamil": "நு",
+        "pronunciation": "Nu"
+    },
+    "121": {
+        "tamil": "நூ",
+        "pronunciation": "Nū"
+    },
+    "122": {
+        "tamil": "நெ",
+        "pronunciation": "Ne"
+    },
+    "123": {
+        "tamil": "நே",
+        "pronunciation": "Nē"
+    },
+    "124": {
+        "tamil": "நை",
+        "pronunciation": "Nai"
+    },
+    "125": {
+        "tamil": "நொ",
+        "pronunciation": "No"
+    },
+    "126": {
+        "tamil": "நோ",
+        "pronunciation": "Nō"
+    },
+    "127": {
+        "tamil": "நௌ",
+        "pronunciation": "Nau"
+    },
+    "128": {
+        "tamil": "ப",
+        "pronunciation": "Pa"
+    },
+    "129": {
+        "tamil": "பா",
+        "pronunciation": "Pā"
+    },
+    "130": {
+        "tamil": "பி",
+        "pronunciation": "Pi"
+    },
+    "131": {
+        "tamil": "பீ",
+        "pronunciation": "Pī"
+    },
+    "132": {
+        "tamil": "பு",
+        "pronunciation": "Pu"
+    },
+    "133": {
+        "tamil": "பூ",
+        "pronunciation": "Pū"
+    },
+    "134": {
+        "tamil": "பெ",
+        "pronunciation": "Pe"
+    },
+    "135": {
+        "tamil": "பே",
+        "pronunciation": "Pē"
+    },
+    "136": {
+        "tamil": "பை",
+        "pronunciation": "Pai"
+    },
+    "137": {
+        "tamil": "பொ",
+        "pronunciation": "Po"
+    },
+    "138": {
+        "tamil": "போ",
+        "pronunciation": "Pō"
+    },
+    "139": {
+        "tamil": "பௌ",
+        "pronunciation": "Pau"
+    },
+    "140": {
+        "tamil": "ம",
+        "pronunciation": "Ma"
+    },
+    "141": {
+        "tamil": "மா",
+        "pronunciation": "Mā"
+    },
+    "142": {
+        "tamil": "மி",
+        "pronunciation": "Mi"
+    },
+    "143": {
+        "tamil": "மீ",
+        "pronunciation": "Mī"
+    },
+    "144": {
+        "tamil": "மு",
+        "pronunciation": "Mu"
+    },
+    "145": {
+        "tamil": "மூ",
+        "pronunciation": "Mū"
+    },
+    "146": {
+        "tamil": "மெ",
+        "pronunciation": "Me"
+    },
+    "147": {
+        "tamil": "மே",
+        "pronunciation": "Mē"
+    },
+    "148": {
+        "tamil": "மை",
+        "pronunciation": "Mai"
+    },
+    "149": {
+        "tamil": "மொ",
+        "pronunciation": "Mo"
+    },
+    "150": {
+        "tamil": "மோ",
+        "pronunciation": "Mō"
+    },
+    "151": {
+        "tamil": "மௌ",
+        "pronunciation": "Mau"
+    },
+    "152": {
+        "tamil": "ய",
+        "pronunciation": "Ya"
+    },
+    "153": {
+        "tamil": "யா",
+        "pronunciation": "Yā"
+    },
+    "154": {
+        "tamil": "யி",
+        "pronunciation": "Yi"
+    },
+    "155": {
+        "tamil": "யீ",
+        "pronunciation": "Yī"
+    },
+    "156": {
+        "tamil": "யு",
+        "pronunciation": "Yu"
+    },
+    "157": {
+        "tamil": "யூ",
+        "pronunciation": "Yū"
+    },
+    "158": {
+        "tamil": "யெ",
+        "pronunciation": "Ye"
+    },
+    "159": {
+        "tamil": "யே",
+        "pronunciation": "Yē"
+    },
+    "160": {
+        "tamil": "யை",
+        "pronunciation": "Yai"
+    },
+    "161": {
+        "tamil": "யொ",
+        "pronunciation": "Yo"
+    },
+    "162": {
+        "tamil": "யோ",
+        "pronunciation": "Yō"
+    },
+    "163": {
+        "tamil": "யௌ",
+        "pronunciation": "Yau"
+    },
+    "164": {
+        "tamil": "ர",
+        "pronunciation": "Ra"
+    },
+    "165": {
+        "tamil": "ரா",
+        "pronunciation": "Rā"
+    },
+    "166": {
+        "tamil": "ரி",
+        "pronunciation": "Ri"
+    },
+    "167": {
+        "tamil": "ரீ",
+        "pronunciation": "Rī"
+    },
+    "168": {
+        "tamil": "ரு",
+        "pronunciation": "Ru"
+    },
+    "169": {
+        "tamil": "ரூ",
+        "pronunciation": "Rū"
+    },
+    "170": {
+        "tamil": "ரெ",
+        "pronunciation": "Re"
+    },
+    "171": {
+        "tamil": "ரே",
+        "pronunciation": "Rē"
+    },
+    "172": {
+        "tamil": "ரை",
+        "pronunciation": "Rai"
+    },
+    "173": {
+        "tamil": "ரொ",
+        "pronunciation": "Ro"
+    },
+    "174": {
+        "tamil": "ரோ",
+        "pronunciation": "Rō"
+    },
+    "175": {
+        "tamil": "ரௌ",
+        "pronunciation": "Rau"
+    },
+    "176": {
+        "tamil": "ல",
+        "pronunciation": "La"
+    },
+    "177": {
+        "tamil": "லா",
+        "pronunciation": "Lā"
+    },
+    "178": {
+        "tamil": "லி",
+        "pronunciation": "Li"
+    },
+    "179": {
+        "tamil": "லீ",
+        "pronunciation": "Lī"
+    },
+    "180": {
+        "tamil": "லு",
+        "pronunciation": "Lu"
+    },
+    "181": {
+        "tamil": "லூ",
+        "pronunciation": "Lū"
+    },
+    "182": {
+        "tamil": "லெ",
+        "pronunciation": "Le"
+    },
+    "183": {
+        "tamil": "லே",
+        "pronunciation": "Lē"
+    },
+    "184": {
+        "tamil": "லை",
+        "pronunciation": "Lai"
+    },
+    "185": {
+        "tamil": "லொ",
+        "pronunciation": "Lo"
+    },
+    "186": {
+        "tamil": "லோ",
+        "pronunciation": "Lō"
+    },
+    "187": {
+        "tamil": "லௌ",
+        "pronunciation": "Lau"
+    },
+    "188": {
+        "tamil": "வ",
+        "pronunciation": "Va"
+    },
+    "189": {
+        "tamil": "வா",
+        "pronunciation": "Vā"
+    },
+    "190": {
+        "tamil": "வி",
+        "pronunciation": "Vi"
+    },
+    "191": {
+        "tamil": "வீ",
+        "pronunciation": "Vī"
+    },
+    "192": {
+        "tamil": "வு",
+        "pronunciation": "Vu"
+    },
+    "193": {
+        "tamil": "வூ",
+        "pronunciation": "Vū"
+    },
+    "194": {
+        "tamil": "வெ",
+        "pronunciation": "Ve"
+    },
+    "195": {
+        "tamil": "வே",
+        "pronunciation": "Vē"
+    },
+    "196": {
+        "tamil": "வை",
+        "pronunciation": "Vai"
+    },
+    "197": {
+        "tamil": "வொ",
+        "pronunciation": "Vo"
+    },
+    "198": {
+        "tamil": "வோ",
+        "pronunciation": "Vō"
+    },
+    "199": {
+        "tamil": "வௌ",
+        "pronunciation": "Vau"
+    },
+    "200": {
+        "tamil": "ழ",
+        "pronunciation": "Lzha"
+    },
+    "201": {
+        "tamil": "ழா",
+        "pronunciation": "Lzhā"
+    },
+    "202": {
+        "tamil": "ழி",
+        "pronunciation": "Lzhi"
+    },
+    "203": {
+        "tamil": "ழீ",
+        "pronunciation": "Lzhī"
+    },
+    "204": {
+        "tamil": "ழு",
+        "pronunciation": "Lzhu"
+    },
+    "205": {
+        "tamil": "ழூ",
+        "pronunciation": "Lzhū"
+    },
+    "206": {
+        "tamil": "ழெ",
+        "pronunciation": "Lzhe"
+    },
+    "207": {
+        "tamil": "ழே",
+        "pronunciation": "Lzhē"
+    },
+    "208": {
+        "tamil": "ழை",
+        "pronunciation": "Lzhai"
+    },
+    "209": {
+        "tamil": "ழொ",
+        "pronunciation": "Lzho"
+    },
+    "210": {
+        "tamil": "ழோ",
+        "pronunciation": "Lzhō"
+    },
+    "211": {
+        "tamil": "ழௌ",
+        "pronunciation": "Lzhau"
+    },
+    "212": {
+        "tamil": "ள",
+        "pronunciation": "Lla"
+    },
+    "213": {
+        "tamil": "ளா",
+        "pronunciation": "Llā"
+    },
+    "214": {
+        "tamil": "ளி",
+        "pronunciation": "Lli"
+    },
+    "215": {
+        "tamil": "ளீ",
+        "pronunciation": "Llī"
+    },
+    "216": {
+        "tamil": "ளு",
+        "pronunciation": "Llu"
+    },
+    "217": {
+        "tamil": "ளூ",
+        "pronunciation": "Llū"
+    },
+    "218": {
+        "tamil": "ளெ",
+        "pronunciation": "Lle"
+    },
+    "219": {
+        "tamil": "ளே",
+        "pronunciation": "Llē"
+    },
+    "220": {
+        "tamil": "ளை",
+        "pronunciation": "Llai"
+    },
+    "221": {
+        "tamil": "ளொ",
+        "pronunciation": "Llo"
+    },
+    "222": {
+        "tamil": "ளோ",
+        "pronunciation": "Llō"
+    },
+    "223": {
+        "tamil": "ளௌ",
+        "pronunciation": "Llau"
+    },
+    "224": {
+        "tamil": "ற",
+        "pronunciation": "Ṟa"
+    },
+    "225": {
+        "tamil": "றா",
+        "pronunciation": "Ṟā"
+    },
+    "226": {
+        "tamil": "றி",
+        "pronunciation": "Ṟi"
+    },
+    "227": {
+        "tamil": "றீ",
+        "pronunciation": "Ṟī"
+    },
+    "228": {
+        "tamil": "று",
+        "pronunciation": "Ṟu"
+    },
+    "229": {
+        "tamil": "றூ",
+        "pronunciation": "Ṟū"
+    },
+    "230": {
+        "tamil": "றெ",
+        "pronunciation": "Ṟe"
+    },
+    "231": {
+        "tamil": "றே",
+        "pronunciation": "Ṟē"
+    },
+    "232": {
+        "tamil": "றை",
+        "pronunciation": "Ṟai"
+    },
+    "233": {
+        "tamil": "றொ",
+        "pronunciation": "Ṟo"
+    },
+    "234": {
+        "tamil": "றோ",
+        "pronunciation": "Ṟō"
+    },
+    "235": {
+        "tamil": "றௌ",
+        "pronunciation": "Ṟau"
+    },
+    "236": {
+        "tamil": "ன",
+        "pronunciation": "Ṉa"
+    },
+    "237": {
+        "tamil": "னா",
+        "pronunciation": "Ṉā"
+    },
+    "238": {
+        "tamil": "னி",
+        "pronunciation": "Ṉi"
+    },
+    "239": {
+        "tamil": "னீ",
+        "pronunciation": "Ṉī"
+    },
+    "240": {
+        "tamil": "னு",
+        "pronunciation": "Ṉu"
+    },
+    "241": {
+        "tamil": "னூ",
+        "pronunciation": "Ṉū"
+    },
+    "242": {
+        "tamil": "னெ",
+        "pronunciation": "Ṉe"
+    },
+    "243": {
+        "tamil": "னே",
+        "pronunciation": "Ṉē"
+    },
+    "244": {
+        "tamil": "னை",
+        "pronunciation": "Ṉai"
+    },
+    "245": {
+        "tamil": "னொ",
+        "pronunciation": "Ṉo"
+    },
+    "246": {
+        "tamil": "னோ",
+        "pronunciation": "Ṉō"
+    },
+    "247": {
+        "tamil": "Background",
+        "pronunciation": "Background"
+    }
+}
