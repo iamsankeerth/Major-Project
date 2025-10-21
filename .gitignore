@@ -4,4 +4,3 @@ venv/
 venv_py310/
 local_backup/
 __pycache__/
-ReferenceImages/
